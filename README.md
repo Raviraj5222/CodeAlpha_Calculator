@@ -44,6 +44,7 @@ Add scientific calculator functions
 Implement calculation history
 Improve UI with animations
 Dark/Light theme toggle
-📌 Author
+📌 Ravi Shankar
+
 
 Your Name
